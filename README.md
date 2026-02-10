@@ -3,7 +3,7 @@
 This is a responsive personal portfolio website created for **Anjola Jesu**.  
 It highlights his work as a **Realtor** and **Freelancer**, provides quick links to social media, and includes access to his CV.
 
----
+--
 
 ## 🚀 Features
 
