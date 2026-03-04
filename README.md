@@ -5,7 +5,7 @@ It highlights his work as a **Realtor** and **Freelancer**, provides quick links
 
 --
 
-## 🚀 Features
+## 🚀 Features 
 
 - **Hero Section** – brief introduction, tagline, and “Download CV” button  
 - **About Me** – short bio presenting his background  
